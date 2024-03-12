@@ -14,3 +14,10 @@ const isloggedIn = false
 const id = Symbol("123")
 
 const bigNumber = 51325545154124514153n
+
+
+// Memory
+
+//Stack(Primitive), Heap(Non-primitive)
+
+
