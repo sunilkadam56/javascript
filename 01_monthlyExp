@@ -1,0 +1,13 @@
+let icici_credit = 1000;
+let roomrent = 6500;
+let halfta = 6000;
+let car_loan = 13600;
+let P_loan = 17000;
+let rbl_credit = 7000;
+let other1 = 3000;
+let other2 = 0;
+let Salary = 77000;
+
+let balance = Salary -(icici_credit+roomrent+halfta+car_loan+P_loan+rbl_credit+other1+other2);
+
+console.log(`my balance is , ${balance}`);
